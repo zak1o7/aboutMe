@@ -4,4 +4,3 @@
 - 💞️ ╏ I’m looking to collaborate on Discord
 - 📫 ╏ How to reach me zak_1o7#8997@discord, zak_1o7@instagram and boya7739@gmail.com { NOTE: I might not respond quickly through Gmail }
 - 📢 ╏ I'm noob coder.
-

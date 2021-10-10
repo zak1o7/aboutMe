@@ -1,5 +1,5 @@
-- 👋 ╏ Hi, I’m @zak1o7
-- 👀 ╏ I’m interested in HTML, CSS and some Discord stuffs.
-- 🌱 ╏ I’m currently learning HTML, CSS and JavaScript
-- 📫 ╏ How to reach me: zak_1o7#5287@discord, zak_1o7@instagram
-- 📢 ╏ I'm noob coder.
+- 👋 ╏ Hi, I’m zak1o7
+- 👀 ╏ I’m interested in Discord stuffs
+- 🌱 ╏ I’m currently learning **HTML**, **CSS** and **JavaScript**
+- 📫 ╏ How to reach me: `zak_1o7#5287@discord`, `zak_1o7@instagram`
+- 📢 ╏ I'm noob coder
